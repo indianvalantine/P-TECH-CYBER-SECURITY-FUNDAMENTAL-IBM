@@ -1,0 +1,63 @@
+There are many methods in which a cyber attacker can enter and exploit a system. Often, attacks are not technical at all, but rather an exploitation of how humans interact with the system in a flawed and vulnerable way. In this lesson, we have selected common types of cyber attacks. This is a representative sample to provide you with a few illustrative examples, rather than a comprehensive list. Let's examine these in greater depth.
+
+Denial of service (DoS) attack
+A DoS attack is any type of attack that causes a complete or partial system outage. 
+The means to perform a DoS attack can range from causing a system to crash to making it unreachable or incapable of continuing work due to abnormal levels of forwarded network traffic.
+EXAMPLE    
+An attacker could send a maliciously formatted file to a server that causes it to overload. An example of this is a billion laugh attack, in which an XML file references itself, expanding to a considerably larger file.
+
+Distributed denial of service (DDoS) attack
+A DDoS attack is a DoS attack that comes from more than one source at the same time. 
+The machines used in such attacks are collectively known as “botnets” and will have previously been infected with malicious software, so they can be remotely controlled by the attacker. 
+According to research, tens of millions of computers are likely to be infected with botnet programs worldwide.
+EXAMPLE   
+An attacker could send a large number of page requests to a web server in a short space of time, overloading it. A similar impact is observed with ticket sales websites where a spike in user demand can overload systems.
+
+Phishing attack
+A phishing attack is the practice of sending messages that appear to be from trusted sources with the goal of gaining personal information or influencing users to do something. 
+It combines social engineering and technical trickery. 
+Unsuspecting users open the email and may provide protected information or download malware.
+EXAMPLE    
+An attacker could send an email with a file attachment or a link to a fake website that loads malware onto a target's computer. 
+
+Spear phishing attack
+Spear phishing attacks are a very targeted type of phishing activity. 
+Attackers take the time to conduct research into targets and create messages that are personal and relevant, and thus likely more effective.
+EXAMPLE   
+An attacker collects a target's details from social media and calls the target pretending to be a representative from the bank. The attacker advises the account is compromised and asks the target to transfer money to a "safe" bank account. The attack is convincing because of the attacker's apparently legitimate knowledge.
+
+Malware
+Malware is a catch-all term for malicious software. It is any software designed to perform in a detrimental manner to a targeted user without the user's informed consent.
+It often triggers secretly when a user runs a program or downloads a file, which can often be unintentional.
+
+Once active, malware can block access to data and programs, steal information, and make systems inoperable. 
+
+EXAMPLE    
+Within the various types of malware, you will find examples related to their function, such as keyloggers (which captures a victim's keystrokes) or ransomware (which holds a victim's files captive in exchange for a ransom payment).
+
+Man in the middle (MitM) attack
+A MitM attack occurs when hackers insert themselves in the communications between a client and a server. 
+This allows hackers to see what’s being sent and received by both sides.
+EXAMPLE   
+An attacker could set up a "free" WiFi hot spot in a popular public location. Anyone who connects to that WiFi network could have their communications examined by the attacker, who may redirect victims to fake log-in screens or insert advertisements over webpages.
+
+Domain name system (DNS) attack
+DNS is one of the core protocols used on the internet.
+Basically, the DNS protocol allows a computer to resolve a domain to an IP address, which allows a user to, for example, reach BMW’s main website by typing “bmw.com” instead of writing an IP address that is hard to remember.
+DNS is used almost everywhere. As a core protocol of the internet, lots of attack vectors directly target DNS, including DNS spoofing, domain hijacking, and cache poisoning (just to name a few).
+EXAMPLE   
+In 2016, the DNS service provided by a company called Dyn was attacked. This resulted in major outages across most of the US, leaving millions of Americans unable to access or use internet services.
+
+Structured query language (SQL) injection
+SQL allows users to query databases. 
+SQL injection is the placement of malicious code in SQL queries, usually via web page input. A successful attack allows common commands to be run. This can include deleting the database itself!
+SQL injection is one of the most common web hacking techniques.
+EXAMPLE  
+In the UK, two teenagers managed to target TalkTalk's website in 2015 to steak hundreds of thousands of customer records from a database that was remotely accessible.
+
+
+This represents a handful of the many types of cyber attacks impacting organizations and individuals today. You will find DoS attacks on organizations are commonly reported in the news, phishing attacks are the most effective on a personal basis, and malware attacks are increasing in number and constantly evolving. 
+Activity
+Fact: No person, organization, or country is immune to the dangers of cyber attacks.
+
+In this activity, you can put on your explorer hat to access the following real-time maps and statistical visualizations of cyber attacks occurring around the world. Take a moment to access each site. It may take a moment to load. Check out the statistics. See just how many attacks are being documented across the globe! Right now!
