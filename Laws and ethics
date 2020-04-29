@@ -1,0 +1,108 @@
+Laws and ethics
+
+Cyber crime is quite a new concept, having only developed within the last 30 years. Before that, people who used computers maliciously had to be prosecuted using a combination of theft and telegraphy acts, which were not that applicable. 
+
+Today, a wide-ranging set of international laws have been created to govern the use of computing technologies and protection of the information residing within them. Everyone is affected by these laws and it is important that all cybersecurity professionals have a basic understanding of them. 
+
+This lesson will provide a quick overview of common types of laws and the importance of considering ethics. 
+
+Important Note
+Laws are not the same across the world. They can vary greatly by country. You should check and abide by the relevant laws for the country you live in and/or travel to. Some governments have written their laws to be more prohibitive than others so that a legal action in one may be illegal in another.
+
+If you are in doubt, seek legal advice.
+
+Common types of computer misuse laws
+Let's review some common features or concepts that are mirrored around the world in computer misuse laws. 
+
+Unapproved use or control of a computer device
+Many laws prohibit unauthorized or unapproved access or use of a computing device. 
+This catch-all barrier means that hijacking computers through technical material or by forcing access to a person’s account is banned.
+These laws can catch people for circumventing broken controls such as authentication.
+EXAMPLE
+Placing a fake log-in screen on a website to steal a set of user passwords and using them to spy on someone’s account.
+
+Preventing others from legitimate use
+These laws attempt to cover attacks on availability of computer resources, such as networking capabilities. 
+Actions that degrade the quality of service for others, or prevent it entirely, will usually be covered within these laws.
+EXAMPLE
+Overloading a server or networking switch by sending it too many packets of information to process.
+
+Aiding other criminals or designing malware
+These laws refer to helping others commit computer misuse offenses, such as being an accomplice.
+One such manner of helping others could be by writing malicious software, commonly known as malware. 
+These laws are intended to be used to help with breaking up criminal gangs.
+EXAMPLE
+Producing a program which allows remote access to a machine without the owner’s awareness.
+
+In addition to the laws concerning computer misuse, you will find that a couple of cyber crime offenses overlap with data protection laws and traditional property laws. Should a cyber crime result in theft of intellectual property, this may be examined as a case of theft.
+
+The golden rule before trying anything in IT security is to get the correct permissions in place from the owner before experimenting on a device. It is also important to know exactly what you are doing to avoid unintentional side effects.
+
+Discussion on ethics
+As the laws vary across the world, ethics do too. There is a lively debate about many aspects of ethics within cybersecurity. For instance, is it permissible for organizations to leave booby-trapped files within their infrastructure awaiting an attacker to trigger one? Many could argue that this is ethically sound, although under most legal frameworks, it would be argued that such an action is illegal since the trapped files would be considered malware. Then there are the ethical dilemmas around using techniques from the security industry to target criminals. Could a retaliation be justifiable or defensible? What about the rules for military action or governments?
+
+You can see there are ethical dilemmas and they have been going on for as long as the industry has existed. These debates are a good sign of a healthy industry reaching maturity and its participants displaying integrity by considering these important issues.
+
+To illustrate the complexity of the laws and ethics of cybersecurity, this diagram shows how the areas of legality and ethics could be seen to overlap.
+
+Diagram showing the overlap of legal considerations then legal and ethical considerations then ethical considerations
+
+Activity
+Do a quick internet search for computer laws in your country. Are there computer laws to abide by? If so, what are they?
+
+Please type your answer in the box. Your answer is just for you and is only saved in this course for you. Be sure to click Save Text.
+Cyber Law also called IT Law is the law regarding Information-technology including computers and internet. It is related to legal informatics and supervises the digital circulation of information, software, information security and e-commerce.
+
+IT law does not consist a separate area of law rather it encloses aspects of contract, intellectual property, privacy and data protection laws. Intellectual property is a key element of IT law. The area of software licence is controversial and still evolving in Europe and elsewhere.
+
+According to Ministry of Electronic and Information Technology, Government of India :
+
+
+
+Cyber Laws yields legal recognition to electronic documents and a structure to support e-filing and e-commerce transactions and also provides a legal structure to reduce, check cyber crimes.
+
+Importance of Cyber Law:
+
+It covers all transaction over internet.
+It keeps eyes on all activities over internet.
+It touches every action and every reaction in cyberspace.
+Area of Cyber Law:
+Cyber laws contain different types of purposes. Some laws create rules for how individuals and companies may use computers and the internet while some laws protect people from becoming the victims of crime through unscrupulous activities on the internet. The major areas of cyber law include:
+
+Fraud:
+Consumers depend on cyber laws to protect them from online fraud. Laws are made to prevent identity theft, credit card theft and other financial crimes that happen online. A person who commits identity theft may face confederate or state criminal charges. They might also encounter a civil action brought by a victim. Cyber lawyers work to both defend and prosecute against allegations of fraud using the internet.
+
+
+Copyright:
+The internet has made copyright violations easier. In early days of online communication, copyright violations was too easy. Both companies and individuals need lawyers to bring actions to impose copyright protections. Copyright violation is an area of cyber law that protects the rights of individuals and companies to profit from their own creative works.
+
+
+Defamation:
+Several personnel use the internet to speak their mind. When people use the internet to say things that are not true, it can cross the line into defamation. Defamation laws are civil laws that save individuals from fake public statements that can harm a business or someone’s personal reputation. When people use the internet to make statements that violate civil laws, that is called Defamation law.
+
+
+Harassment and Stalking:
+Sometimes online statements can violate criminal laws that forbid harassment and stalking. When a person makes threatening statements again and again about someone else online, there is violation of both civil and criminal laws. Cyber lawyers both prosecute and defend people when stalking occurs using the internet and other forms of electronic communication.
+
+
+
+Freedom of Speech:
+Freedom of speech is an important area of cyber law. Even though cyber laws forbid certain behaviors online, freedom of speech laws also allow people to speak their minds. Cyber lawyers must advise their clients on the limits of free speech including laws that prohibit obscenity. Cyber lawyers may also defend their clients when there is a debate about whether their actions consist of permissible free speech.
+
+
+Trade Secrets:
+Companies doing businesses online often depend on cyber laws to protect their trade secrets. For example, Google and other online search engines spend lots of time developing the algorithms that produce search results. They also spend a great deal of time developing other features like maps, intelligent assistance and flight search services to name a few. Cyber laws help these companies to take legal action as necessary in order to protect their trade secrets.
+
+
+Contracts and Employment Law:
+Every time you click a button that says you agree to the terms and conditions of using a website, you have used cyber law. There are terms and conditions for every website that are somehow related to privacy concerns.
+
+
+Advantages of Cyber Law:
+
+Organizations are now able to carry out e-commerce using the legal infrastructure provided by the Act.
+Digital signatures have been given legal validity and sanction in the Act.
+It has opened the doors for the entry of corporate companies for issuing Digital Signatures Certificates in the business of being Certifying Authorities.
+It allows Government to issue notification on the web thus heralding e-governance.
+It gives authority to the companies or organizations to file any form, application or any other document with any office, authority, body or agency owned or controlled by the suitable Government in e-form by means of such e-form as may be prescribed by the suitable Government.
+The IT Act also addresses the important issues of security, which are so critical to the success of electronic transactions.
