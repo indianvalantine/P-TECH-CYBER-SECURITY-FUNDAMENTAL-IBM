@@ -1,0 +1,70 @@
+Risks are part of everyday life and something we are all instinctively familiar with. A risk is the possibility of something happening with a negative consequence. Managing risk is at the heart of most businesses and the core of many industries, such as the insurance industry. Good businesses understand and manage risks effectively to give them a competitive advantage. 
+
+In this lesson, we'll explore some key concepts about risk and how they apply to cybersecurity.
+
+Risk valuation
+All risks are not equally important. Certain risks may require urgent attention whereas others may be ignored. Risks that are more significant, are known as high risks. Here is a basic equation to calculate the value of a risk:
+
+Risk value = Consequence x Likelihood
+
+Consequence is the impact and associated damages.
+
+Likelihood is how often the risk impact occurs.
+
+Ideally, for mathematical reasons, it would be great if we had good statistical information for every risk. If, for instance, we know on a given year that 1 in 10 cars will experience a flat tire, then the associated risk value can be easily worked out. 
+
+EXAMPLE  
+
+An example of the risk value equation applied to the the previous flat tire scenario could be as follows. An individual may lose a day's productivity as a result of getting a flat tire on the way to work. The consequence of this risk would be the loss of one day of work. While this consequence is annoying, remember the likelihood of the risk is low - 1 in 10 cars in a given year. This means we may assess the overall risk value to be low. 
+
+Within cybersecurity, likelihood is hard to directly measure due to the constant evolution of technology and involvement of outside attackers. As a good rule of thumb, the likelihood of an organization being attacked depends partly on three attributes as follows:
+
+Likelihood = Adversary capability x Adversary motivation x Vulnerability severity
+
+An adversary is a general term used to describe an entity who wishes to compromise an information system. Later in this course, you will learn more about how adversaries can be categorized. This will enable you to assign values for their capabilities and motivations.
+
+Vulnerabilities are potential weaknesses within a system that could be exploited to compromise it. For instance, a vulnerability could be a webpage that does not authenticate a user correctly. 
+
+EXAMPLE  
+An example of this second equation could be as follows. Let's imagine a bank is being targeted by a criminal gang who is interested in stealing users' banking login details and passwords. 
+
+The adversary capability could be assessed as medium because the criminals could use a range of tools and develop their own tools if required.
+Their motivation could be assessed as high because they could attempt multiple attacks over a period of time.
+An identified vulnerability could be assessed as high because it is comparatively easy to exploit. For example, certain vulnerabilities have published descriptions online which enable attackers to mirror attacks easily.
+Note: Using the rating terms of "low", "medium", and "high" is an example of qualitative analysis of risk. In an ideal world, we would use exact numbers or percentages; however these can be hard to find so estimates are often all we have.
+
+Risk response
+Once an organization has assessed all of its risks, the emphasis is then placed upon risk management, or response. In general, there are four responses to a risk that an organization could choose. The following table describes them. 
+
+Accept	The organization accepts the risk in its current form. This is a decision that will be made by a senior individual within the organization, referred to as a “risk owner”.
+Reduce	The organization could decide a risk is too large to accept and aim to have it reduced in some fashion. This could either be through reducing the likelihood or consequence.
+Transfer	The organization may want a third party to accept the risk, or part of it, instead of accepting it themselves. This is done via insurance.
+Reject	The organization could decide a risk is too high and may withdraw from being affected by it. This will have significant business impacts such as shutting down sites or avoiding markets.
+ 
+
+EXAMPLE
+Let's illustrate these four responses to a risk. Imagine that you are considering starting a cake baking business at home. There is a risk that your kitchen could be damaged if you set your oven on fire during the baking process. Here are several responses to this risk.
+
+Acceptance: You could look at the risk and with faith in your baking, take the chance that it is unlikely anything will go wrong. Should your baking go wrong, you can repair your kitchen and are prepared to do so.
+Reduction: You decide that you would prefer your kitchen and oven are not put at a high level of risk and you decide to reduce the risk. You could reduce the likelihood of fire-related incidents by installing a smoke detector to provide early warning. You could reduce the consequence of a fire by having a fire suppression system installed. Both options will incur a small cost, but you believe they are worth it.
+Transference: You go to your insurance company and upgrade your insurance to cover home cooking related fires. They perform their own assessment of the risk. Together you agree on a cost to pay them to cover the risk. Should your oven catch fire, they will cover the costs. This arrangement incurs a cost initially, but limits your liability.
+Rejection: You decide that the oven-related fire risk is too high. You could change recipes to make cakes without using an oven or not start your business in the first place.
+As you can see from this example, there are many things to consider in even a simple example. Businesses with rapidly changing IT technology face many continually evolving risks. Risk management is a full time occupation in many companies and guides a lot of both strategic and tactical decision making.
+
+Risk appetite
+A risk appetite is the level of risk an organization is willing to accept.
+
+An organization is said to have a high risk appetite if it is willing to accept a high level of risk.
+An organization is said to have a low risk appetite if it does not like accepting risk.
+What do you think?
+Here is a question to think about. Please type your answer in the box. Reflecting and typing an answer is a good way to process your thoughts. Your answer is just for you and is only saved in this course for you. Be sure to click Save Text.
+
+Think of a risk that you have recently encountered in your life. 
+
+What was the risk and your response? Did you accept, reduce, transfer, or reject it? 
+-------------------------------------------------------------------------
+
+the risk i faced recently is my laptop os crashed where i had around 3000 files .
+and the day i got to know it is a hard drive failure i got confused a bit but i already know about some process so i accessed windows os through linux os and saved my all file in my drive and started using linux .
+so here i :  Accept The Risk>Avoid The Risk>Transfer The Risk>Mitigate The Risk>Exploit The Risk.
+
