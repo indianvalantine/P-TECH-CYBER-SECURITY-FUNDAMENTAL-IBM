@@ -1,0 +1,112 @@
+Threat actor groups
+Module overview
+This module focuses on the "offensive" side of cybersecurity, meaning the cyber attackers and their techniques. How do they hack? What could go wrong? You will learn about these topics:
+
+Types of cyber attacker groups
+Types of cyber attacks
+Steps in a typical cyber attack sequence, using the Lockheed Martin Cyber Kill Chain framework
+Attacker tactics and techniques, using the MITRE ATT&CK matrix
+How the cyber crime economy works
+Social engineering and common social engineering attacks
+Open source intelligence (OSINT) and common sources that cyber attackers use
+Technical scanning methods
+High profile case studies of cyber attacks to recognize what is possible and going on in the world
+Threat actor groups 
+Cybersecurity professionals must be aware of the different types of threat actor groups, or cyber attacker groups. These are diverse groups and they vary substantially in motivation, resources, and techniques. Let's review and compare the five main types of cyber attacker groups.
+Group 1: Script kiddie
+The first group is the least advanced, the script kiddie. The term "script kiddie" refers to someone who uses programs, frequently basic hacking tools, without truly understanding what is going on behind the scenes. They may display a basic understanding of networking and programming, but lack technical skills as well as patience or strategic intent.
+
+SUMMARY
+In practice, this demographic is mostly teenagers or young adults, who are self-taught via forums, videos, and experimentation.
+For many, the main motivations for their hacking efforts are reputation, status in the eyes of the hacking community, entertainment, or settling grudges.
+From a resourcing standpoint, script kiddies rely on off-the-shelf penetration testing tools and publicly available exploits. 
+In most cases, they are very underfunded. They tend to display little trade-craft knowledge beyond that of basic proxies or disposable accounts.
+From a defensive standpoint, organizations must ensure that their patching schedule is effective. Should an easy exploit be developed, it is very likely that it will be deployed at some point. Defenses must be sufficient to ensure that another target appears easier which should be a sufficient deterrent.
+Profile of a script kiddie
+Who are they?	What is their objective?
+Self-taught individuals, typically teenagers	Seek reputation enhancement or attack for fun
+What resource do they have?	How do you protect against them?
+Little funding, little or no technical expertise and assistance, may use free tools written by others	Ensure patching schedule is effective and basic perimeter defenses are up to date
+ 
+
+Group 2: Hacktivist
+The second group is the hacktivist. Hacktivist is a term which combines "hacker" and "activist". Hacktivists seek a political or economic change and will use hacking to achieve it.
+
+SUMMARY
+The key, defining attribute of hacktivists is that they are driven by ideological reasons. 
+The group of people who make up hacktivist groups ranges greatly. Like the script kiddie group, they are filled with impressionable amateurs, but when causes align on a highly topical issue, they are joined by more experienced members within the security community.
+The motivations of hacktivist groups are defined by their aims, which vary enormously. Generally, it involves supporting one cause the individuals believe in. This could be a side in the Middle East conflict, political activities, and so on. 
+The most famous example of this group would be the hacking collective called Anonymous. Anonymous is a decentralized international hacktivist group that is known for cyber attacks against several governments, government institutions and government agencies, and corporations. 
+Hacktivists use a range of basic tools which can be very effective when done at scale. Denial of Service (DoS) programs are a notable example in this area. 
+While a single script kiddie poses little threat, several hundred launching parallel attacks can be significantly more challenging to deal with. 
+As an organization, being astute is very important. Should an organization operate business in a sensitive area (e.g., animal testing, political causes), then it is possible it may come under a sustained attack from hacktivists at some point. Having good defenses will not be enough to deter all attacks, so organizations should plan methods to cope with a sustained attack.
+Profile of a hacktivist
+Who are they?	What is their objective?
+Driven idealists forming loose coalitions	Want to bring about a change 
+What resource do they have?	How do you protect against them?
+Operate at scale with varying tools and biggest attribute is size	Ensure defenses can cope with an extended disruptive attack
+Group 3: Criminal gang
+As long as there is easy money to be made, criminals will always be a problem for society. The internet’s creation has created a new method for criminals to prey on victims with an unprecedented scale, range, and ease. Rather than run risks in person, aspiring criminals can send out millions of infected emails from halfway around the world and secure a ransom from a victim before transferring funds into cryptocurrencies to evade conventional policing methods. Capturing these criminals is extremely taxing and, due to international laws, securing a prosecution is near impossible. Sadly, most criminals are aware of these facts.
+
+SUMMARY
+This is the fastest growing group and as a result, it is the broadest. 
+Within the group, there are a range of activities. Gangs could be running ransomware attacks (where a victim is forced to pay to secure access back to their resources), committing extortion (where the threat of a large attack secures protection money), committing conventional theft of customer data or intellectual property, and so on.
+Being a cyber-based criminal is a full-time and potentially quite lucrative proposition. Gangs can range from a few individuals all the way to multinationals with hundreds of members. Within each gang, there are frequently specialists and they can trade information on the dark web. Consequently, criminal gangs are quite advanced and well-organized.
+From a resourcing standpoint, criminal gangs frequently develop and deploy their own malware. They even in some cases rent access to others who may be less technical. Like all software sales, they advertise, host reviews, and even have tech support. Criminal gangs have access to substantial amounts of infrastructure, such as servers and domains.
+To protect against a criminal gang, effective defenses should exist for critical assets. While discovering ransomware on an employee’s laptop may be inconvenient for the company, discovering ransomware on a production sever could be devastating.
+From a financial perspective, the criminals will always adopt the quickest and easiest get-rich-quick scheme.
+Profile of a criminal gang
+Who are they?	What is their objective?
+Groups of people in national and international teams	Driven by financial motivations
+What resource do they have?	How do you protect against them?
+Broad range of tools and equipment, bought and traded on the dark web	Need to have a fully trained workforce with protections around critical assets and back-ups
+Group 4: Nation state hacker or advanced persistent threat (APT)
+The next group, and one that receives the most media attention, perhaps unduly, is the nation state attackers. Many military organizations around the word now consider cyberspace a fifth sphere of conflict alongside sea, land, air, and space. Many nations have demonstrated the ability to project power across national borders to a great and expanding variety of consequences.
+
+SUMMARY
+The role of nation state hackers is to provide a strategic advantage to their respective country. This may range from reconnaissance and information collection (e.g., traditional spying/signals intelligence) all the way to information subversion and manipulation.
+Members of these organizations are well-educated or trained and cover a range of backgrounds. They work full-time and typically work on the cutting edge within their respective fields.
+Their motivations are typically aligned closely with political or strategic objectives. A recent example of this were the Russian activities concerning the 2016 US presidential election. The aim was to interfere with the election as well as increase political and social discord.
+From a resourcing standpoint, nation state hackers have access to advanced research, dedicated infrastructure teams, and tremendous political support. 
+Protection against determined nation state hackers is tremendously challenging for organizations. Doing so effectively requires fully capable and coordinated security defenses. 
+Profile of a nation state hacker
+Who are they?	What is their objective?
+Highly trained and educated specialists	Follow strategic, multi-year plans on a wide range of issues
+What resource do they have?	How do you protect against them?
+Very large budgets, cutting-edge tooling, and leading-edge research	Incredibly difficult; need fully coordinated defenses around every aspect of the organization
+Group 5: Malicious insider
+The final group that is arguably the most concerning, is that of the malicious insider. The insider refers to a member within an organization that either intentionally or otherwise acts against it. 
+
+SUMMARY
+Malicious insiders can either start with a negative mindset within an organization or become resentful after a period of time.
+Motivations vary greatly and can cover just about everything, with financial interests and bitterness being two of the most common. In other cases, notoriety or fame can be motivators.
+A common example of an insider is an employee being blackmailed into allowing someone access to the employee's corporate accounts. Another common example is a disgruntled employee who steals corporate secrets before being fired. Perhaps the most famous insider attack of all time was Edward Snowden, who stole a large amount of National Security Agency (NSA) files from the US before giving them to WikiLeaks.
+Insiders do not usually rely on technical skills to execute their attacks. While some may shoulder surf or use social engineering to gain access from others, typically they use their own corporate access and permissions.
+Defense against insiders is best achieved by vetting employees, effective management, and then technical controls. Resorting to technical controls is frequently seen as a “get out of jail free card” for many companies and it frequently fails because you are, after all, trying to stop users who are extremely familiar with the system. In many cases, there are a lot of warning signs before somebody launches an inside attack. For instance this could be working alone, expressing resentment, failing in quality of work, or doing unexplained activities. Picking up on these signs is very important.
+Profile of a malicious insider
+Who are they?	What is their objective?
+Staff members who work against an organization's own interests, either deliberately or accidentally	Seek revenge or have financial motives
+What resource do they have?	How do you protect against them?
+No budget or resources required; use granted access	Monitor staff carefully and ensure organization's culture is effective to prevent issues
+
+ 
+
+Note: Sometimes these descriptions of the types of cyber attackers are not always precise. In operations, hacktivists might recruit script kiddies and nation state hackers might recruit criminal gangs. Also, some cyber attackers will disguise their work to appear less advanced than they are. These facts can make it difficult to attribute threats to the correct party. 
+
+White hat hackers
+We have covered the five common types of cyber attackers who have personal motivations or threatening, often illegal motivations. But, there are also individuals out there who are considered white hat hackers. A white hat hacker chooses to use, and monetize, their skill set for good, rather than criminal or exploitative activity. Often called “ethical hackers,” white hat hackers take on a real hacker mindset to use the same methods as real-life attackers, but with the goal of testing and fortifying systems to help clients and consumers be better protected from the real thing. 
+
+Here are two leading cyber security experts who fall into the white hat category and use their skill sets to offer valuable and often highly-paid advice and knowledge to organizations around the world.
+
+Brian Krebs
+
+Brian is a celebrated journalist who investigates cyber crime. He kicked off his career as a reporter for The Washington Post, where he wrote for the Security Fix blog from 1995 to 2009 and pushed the boundaries of cyber security reporting. Today, he owns the hugely popular blog Krebs on Security and was named 2019’s “Cyber Security Person of the Year” by CISO MAG.
+
+Fun fact: Brian’s interest in cybersecurity was ignited after his entire home network was taken captive by a Chinese hacking group.
+
+Georgia Wiedman
+
+Georgia is a serial entrepreneur in the cybersecurity space and has worked as a penetration tester, security researcher, speaker, trainer, and author. She has gained a large following through her work in smartphone exploitation and mobile device security as the founder and CTO of Shevirah.
+
+ 
+Fun fact: Georgia is an angel investor and has spoken and trained audiences around the world at venues like the NSA, West Point, and Black Hat.
