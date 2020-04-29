@@ -1,0 +1,29 @@
+What is cybersecurity?
+-------
+Module overview
+--------------
+This module focuses on some fundamentals about cybersecurity to get you started within the course. You will learn about these topics:
+
+What is information security and cybersecurity?
+Objectives of information security, using the CIA triad
+Key elements of cybersecurity
+Risk and the methods to manage risk
+Common misconceptions about the cybersecurity industry
+Importance of laws and ethical considerations for the cybersecurity industry
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Information security ::
+--------------
+Let’s start by thinking about what cybersecurity is and what we are trying to accomplish. Most definitions of cybersecurity tend to focus on technology, so a typical definition might include the “security of digital systems” or “security of communications”. These definitions tend to get blurry, very quickly. For instance:
+
+What if a fraudster sends an email to a person claiming to be from their bank and asking for their personal identification number (PIN). Is that a cybersecurity concern?
+What if a private investigator calls an employee of a company to ask him to print some confidential files and leave the papers in the mail room them to collect. Is that a cybersecurity concern?
+In the real world, most attacks typically have some digital elements as well as some human factors and occasionally a physical element too. Please keep this in mind. We should not just focus on digital elements because this limits our thought process and gives potential attackers greater flexibility. 
+
+Let’s consider a new concept called information security. Information security focuses on the value of the information we are trying to protect rather than how we protect it. The following diagram shows that under information security are the physical elements and digital elements.
+Physical security is the practice of physically protecting assets like buildings, security cameras, equipment, and property from physical threats such as theft, vandalism, fire, and natural disasters.
+Cybersecurity is the practice of protecting and recovering networks, devices, and programs from any type of malicious cyber attack. 
+Good security cannot have one without the other and both must work towards the same objectives. 
+EXAMPLE ::
+-------------------
+Let's consider this from a customer's perspective. Imagine that you go to a travel company and share your passport details to book a trip abroad. What if an employee of the company accidentally emails your passport details to the wrong address or drops printed papers with your passport details from a briefcase on a train? The result is the same. Your private information has been compromised. In information security, the emphasis is on the outcome rather than the exact method.
+
