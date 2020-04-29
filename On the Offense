@@ -1,0 +1,35 @@
+Structure of a cyber attack
+As computer systems change so do the ways in which they can be compromised. For example, a cyber attack may rely on a computer running an outdated version of a web browser to be vulnerable to a specific piece of malware. Once the software is patched, that attack cannot be repeated in the exact same manner. However, while individual techniques may evolve with time, the overall structure of a typical cyber attack can be examined. In this lesson, we'll review a couple of ways this has been done over the years so you have a basic understanding. 
+
+Note: This is meant to provide you with a quick overview and you can choose to explore more if you would like. 
+
+Introducing the Lockheed Martin Cyber Kill Chain® framework
+Lockheed Martin Corporation is an American global aerospace, defense, security, and advanced technologies company. Researchers at Lockheed Martin determined that there are parallels between the typical U.S. military concept of a "kill chain" and intrusions within digital networks. The word "chain" is used here to indicate a set of steps that must be completed in order, in which each step depends on the previous step's completion. Here is a walk-through of the seven steps in the Cyber Kill Chain framework so you understand a typical cyber attack sequence. 
+
+Diagram of the seven steps in the Lockheed Martin Cyber Kill ChainView larger
+
+Source: Lockheed Martin, the Cyber Kill Chain® framework
+
+Reconnaissance: During this stage, the attacker gathers information about the target. This can be achieved through probing digital servers, speaking with people close to the target, or just reading the news!
+Weaponization: Once a specific vulnerability has been identified, a piece of malware is designed to exploit it. This process can range from downloading a sample of a database, purchasing a tool from a 3rd party, or developing something custom.
+Delivery: The chosen malware must be sent to the target in some manner. Despite progress over the years, the most common method is still via email. Other methods can include website downloads and infected or modified USB devices.
+Exploitation: Once malware is given to the target, it activates and performs a series of instructed steps. How this occurs is highly variable and depends on many details about the programs and operating system in use. This process is known as "exploiting a vulnerability" and the software used to do it is known as exploit code or an exploit.
+Installation: The malware attempts to get some element of persistence within the target system. This can be achieved through the creation of back doors, which can include creating new accounts, installing remote access programs, or introducing new vulnerabilities into the system. These factors mean that if the original vulnerability is patched, it is too late for the defender as the attacker’s access remains.
+Command and Control (C2): A method for the attacker to communicate with the compromised systems must be established. This enables instructions and upgrades to be sent to the target and for data to be sent back to the attacker. This can be done using websites, direct connections, and even Twitter.
+Actions on Objectives: Once all the previous steps have been completed, the attacker is free to complete the original intent. This could range from stealing data, modifying data, or destroying key system elements.
+ 
+
+Introducing the MITRE ATT&CK matrix
+MITRE is an American non-profit organization dedicated to solving problems for a safer world. It brings forward innovative ideas in a variety of areas including cyber threat sharing and cyber resilience. MITRE collected a set of tactics, techniques, and procedures (TTP) that cyber attackers have been using to develop ATT&CK. It stands for Adversarial Tactics, Techniques, and Common Knowledge. It is pronounced as "attack". This collected knowledge is presented in a matrix to help organizations examine cyber attacks in a simplified form. The ATT&CK matrix is open and available to any person or organization for use at no charge. 
+
+The following graphic is a sample of the ATT&CK matrix. You can see it is quite comprehensive. 
+
+Screen shot of the online ATT&CK matrixView larger
+
+The column headers identify an attacker tactic. Each tactic can be considered as an attacker's objective. Then, the list under each column are the many techniques that the cyber attacker can use to achieve the tactic or objective. These link to more information.
+
+EXAMPLE  
+A cyber attacker may want to gain credentialed access to a system. This is a tactic. In this scenario, if the attacker identifies poor logging and no account lockouts are in use, the attacker could choose to use the Brute Force technique. In this technique, a program is run, which can try millions of username and password combinations until a successful one is identified. Should the chosen technique be unsuccessful, an attacker can simply switch to another approach and continue trying.
+
+Importance of understanding cyber attacks
+During a cyber attack, attackers can be quite persistent. It is rare that a single interruption to their attack will cause them to give up. Instead, it can be quite helpful to view cyber attacks as part of a longer campaign. Many attacks can last for months with attackers spreading their influence and defenders trying to identify and stop them. Good defenders will attempt to anticipate an attacker's next move and frameworks such as the MITRE ATT&CK matrix help them to achieve this.
