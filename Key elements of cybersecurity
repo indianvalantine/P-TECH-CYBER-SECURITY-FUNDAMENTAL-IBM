@@ -1,0 +1,49 @@
+Key elements of cybersecurity
+---------------------------
+There are many ways to secure information assets and deciding on the best approach is an important consideration in cybersecurity.
+
+EXAMPLE   
+Imagine you have an expensive painting that you need to protect. One option could be to hire some security guards to stand by the painting and constantly watch it. Another option could be that you require all prospective visitors to your painting to place a monetary deposit down or seek insurance confirmation. Finally, you could opt for laser trip wires, security cameras, and motion sensors to detect unknown people. Each of these options has various advantages and disadvantages. Like all great heist movies, relying on only one option may not be enough.
+
+There are three key elements of cybersecurity to consider:
+
+Diagram listing People, Process, and Technology
+ 
+
+These are the areas where an attacker could attack and where organizations should focus cybersecurity efforts. Let's examine them further in this lesson.
+
+People
+As counter intuitive as it might be for a highly digital industry, people are the most important part of cybersecurity. First, people are the end users of digital systems and second, people are often those responsible for the design and maintenance of digital systems. Human action is by far the leading cause of cybersecurity incidents. When organizations design a secure system, they must design with people in mind.
+
+A common example of this going wrong is the case of alert fatigue. If people receive too many notifications or alarms, then they eventually become desensitized to it. Good systems will be designed to anticipate and make allowances for human behavior.
+
+Process
+In business, most activities follow a clearly defined set of steps. These processes can aid cybersecurity by considering security at each step or hinder cybersecurity by being frustrating for the end user.
+
+Imagine a process which makes a user complete a 20-question survey whenever they wish to report suspicious activity. Many users, who could contribute useful information, might be deterred and give up the process.
+
+Good processes have the following attributes:
+
+They are clear and as easy as possible. During the process, it should be obvious what to do at every stage. Processes should not use unnecessary jargon or be written in an ambiguous fashion.
+They are accessible or well known. All users who could follow a process at any stage, should know how to access the process. A good example of this commonly being done well is with fire evacuations in buildings. Most people know where the nearest evacuation points are because of good signage.
+They are consistent. Processes should not contradict each other, if possible. If a process has a lot of exceptions or deviations, it increases complexity. Later, you will learn about how cyber attackers can exploit this during their attacks.
+Technology
+Technology is all of the underlying infrastructure.
+
+Within cybersecurity, this commonly covers elements such as device encryption, network perimeter defenses, and anti-malware technologies. 
+
+Within business, good uses of technology solve problems without creating new ones for their users.
+
+An example of good technical security is device management software, which can track software patch statuses and apply updates. This is often an essential tool for large organizations. If this is done correctly, then the technology is non-intrusive and users will be secured in a passive manner. If this is done poorly, then users might try to disable the software entirely. As users of devices, you encounter this too. 
+
+The following table shows some technological leaps for security, their perceived drawbacks, and some downsides to their introduction from the user perspective. 
+
+Technological leap	Business benefit	Perceived drawback	Undesirable user responses
+Automated patch management	All software is up-to-date	Interruptions to use of device	User does not power down devices
+High complexity mandatory passwords	Harder for attackers to guess passwords	Tedious to use	P@ssw0rd!
+Mandatory passwords expire after 30 days	Passwords cannot be compromised for long periods of time	Predictably repetitive 	PasswordJan to then PasswordFeb
+Encrypted emails	Attackers cannot read emails in transit	
+Additional configuration and complexity
+
+Disable encryption feature
+You can see it is important for organizations to educate users as to why exactly the technology has been introduced and why perceived drawbacks might be necessary.  
